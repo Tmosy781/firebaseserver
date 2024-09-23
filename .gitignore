@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Firebase cache
+.firebase/
+
+# Environment variables
+.env
+
+# Firebase functions
+functions/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
